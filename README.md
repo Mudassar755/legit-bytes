@@ -4,6 +4,6 @@
   </a>
 </p>
 <h1 align="center">
-  Smart-Home Safety
+  Legit bytes
 </h1>
     ``
